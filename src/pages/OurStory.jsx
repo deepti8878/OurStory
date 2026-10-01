@@ -39,7 +39,7 @@ const questions = [
         options: [
             "Send me good morning texts",
             "Bring me gifts",
-            "Pick me up and drop me at office",
+            "You came to drop for office",
             "Call me before sleeping",
         ],
         correct: 2,

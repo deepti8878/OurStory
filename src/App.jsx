@@ -12,7 +12,7 @@ import FinalMessage from "./pages/FinalMessage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/OurStory">
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/before-we-start" element={<BeforeWeStart />} />
